@@ -1,0 +1,11 @@
+:host {
+  display: block;
+}
+
+.bg-blue {
+  background-color: lightblue;
+}
+
+.bg-red {
+  background-color: lightcoral;
+}
