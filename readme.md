@@ -2,16 +2,11 @@
 
 # Stencil Component Starter
 
-This is project is to demonstrate `stencil-require-js` issue. This issue is for IE 11 only.
+IE 11 style issue
 
 ## Step to reproduce
 
-1. Clone the repository ``https://github.com/warapitiya/stencil-require-js``.
+1. Clone the repository ``https://github.com/warapitiya/stencil-ie-style-issue.git``.
 2. Install dependencies: ```yarn install```
-3. Build project: ```yarn build```
-4. Serve the files: ```npx serve```
-5. Navigate to URL on IE 11: ```http://localhost:5000/example```
-5. Open console to see the error.
-
-![error](./error.png "Error image")
+3. Start project: ```yarn start --es5```
  
